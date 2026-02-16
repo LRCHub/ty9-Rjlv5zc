@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "きみに回帰線",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-02-16T09:34:14.965331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きみに回帰線",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_きみに回帰線_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きみに回帰線",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/02_きみに回帰線_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "きみに回帰線",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/03_きみに回帰線_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "きみに回帰線",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/04_きみに回帰線_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "きみに回帰線 (noPerc)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/05_きみに回帰線_(noPerc)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "きみに回帰線 (cover)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/06_きみに回帰線_(cover)_稲葉曇.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きみに回帰線",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_きみに回帰線_稲葉曇.txt"
+    }
+  ]
+}
